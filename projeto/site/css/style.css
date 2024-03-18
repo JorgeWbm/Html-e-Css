@@ -1,0 +1,24 @@
+/* */
+
+body {
+    background-color: #1C1C1C	;
+}
+
+#logoJW {
+    width: 30px; 
+    height: 30px;
+}
+
+table {
+    background-color: #228B22;
+}
+.logo {
+    float: left;
+}
+.table-content {
+    margin-left: 10%;
+}
+
+h1 {
+    color: green
+}
